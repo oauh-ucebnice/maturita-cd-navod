@@ -1,5 +1,7 @@
 # Maturitní poslechový subtest — spuštění přehrávače
 
+Poslední aktualizace k: 20.4.2023
+
 Stejně jako loni se i letos bude poslech pro poslechový subtest testu z&nbsp;cizího jazyka spouštět z&nbsp;počítače v&nbsp;učebně.
 
 ## Než začnete spouštět poslech, ověřte:
