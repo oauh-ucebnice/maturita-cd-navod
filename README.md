@@ -19,16 +19,16 @@ Stejně jako loni se i letos bude poslech pro poslechový subtest testu z&nbsp;c
    ![Spuštění průzkumníka souborů](img/mat-cd_01_pruzkumnik.png)
 1. Vyberte v&nbsp;levém okně položku _Tento počítač_  
    ![Zobrazení jednotek počítače](img/mat-cd_02_tento-pocitac.png)
-1. **Pravým tlačítkem** klikněte na DVD mechaniku a zvolte _Přehrát  
+1. **Pravým tlačítkem** klikněte na DVD mechaniku a zvolte _Přehrát_:    
    ![Spuštění přehrávání](img/mat-cd_03_spustit.png)
-1. Pokud spouštíte přehrávač na daném počítači poprvé, musíte potvrdit doporučené nastavení. Podruhé se již tento dialog nezobrazí  
+1. Pokud spouštíte přehrávač na daném počítači poprvé, musíte potvrdit doporučené nastavení. Podruhé se již tento dialog nezobrazí:  
    ![](img/mat-cd_04_wmp-nastaveni.png)
-1. Najeďte do okna přehrávače kurzorem myši a kliknutím na ikonku vpravo nahoře zobrazte přehrávané stopy  
+1. Najeďte do okna přehrávače kurzorem myši a kliknutím na ikonku vpravo nahoře zobrazte přehrávané stopy:  
    ![](img/mat-cd_05_zobraz-stopy.png)
 1. Aktuálně přehrávaná stopa je zvýrazněna modrým písmem. Sledujte, která stopa se přehrává a dělejte si poznámky.  
    ![](img/mat-cd_06_zobrazeni-stop.png)
 1. Po úvodní stopě upravte hlasitost podle požadavků účastníků. Přehrávání můžete dočasně pozastavit.
-1. Pokud je zvuk slabý, zkontrolujte nastavení hlasitosti vpravo dole na liště  
+1. Pokud je zvuk slabý, zkontrolujte nastavení hlasitosti vpravo dole na liště:    
    ![](img/mat-cd_07_hlasitost.png)
 1. Během přehrávání:
     1. Necháte nahrávku běžet a nezasahujete do ní.
